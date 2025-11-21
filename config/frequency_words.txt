@@ -8,6 +8,10 @@ Faker
 GenG
 HLE
 
+好莱坞
+电影
+美剧
+
 DeepSeek
 梁文锋
 
@@ -73,10 +77,15 @@ sora
 claude
 Anthropic
 
+apple
 iphone
 ipad
 mac
 ios
+三星
+
+steam
+3A
 
 ai
 !gai
